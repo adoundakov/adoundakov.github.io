@@ -424,6 +424,16 @@
   margin-bottom: 42px;
   text-align: initial;
 }
+.cv-block ul {
+  padding: 0;
+}
+.cv-block li {
+  list-style: none;
+  font-family: Roboto, "Times New Roman", Times, serif !important;
+  color: #565656;
+  font-size: 18px;
+  line-height: 26px;
+}
 .employment_and_edu_block .cv-block:last-child {
   margin-bottom: 68px;
 }
