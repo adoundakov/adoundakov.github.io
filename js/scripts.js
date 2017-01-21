@@ -213,7 +213,7 @@ $(document).ready(function () {
             $('#form-submit-errors').text("Success!");
           },
           error: function() {
-            $('#form-submit-errors').text("Something went wrong...");
+            $('#form-submit-errors').text("Form Currently Unavailable...");
           }
         });
 
