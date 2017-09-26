@@ -431,8 +431,9 @@
   list-style: none;
   font-family: Roboto, "Times New Roman", Times, serif !important;
   color: #565656;
-  font-size: 18px;
-  line-height: 26px;
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 14px;
 }
 .employment_and_edu_block .cv-block:last-child {
   margin-bottom: 68px;
@@ -462,7 +463,7 @@
   z-index: 2;
 }
 .employment_and_edu_block .cv-block p {
-  font-size: 18px;
+  font-size: 16px;
   color: #565656;
   line-height: 26px;
 }
@@ -730,6 +731,9 @@
   background-color: #11958b;
   color: #ffffff !important;
   text-decoration: none;
+}
+.contact_form {
+  display: none;
 }
 .contacts_block .contact_form .form-group {
   margin-bottom: 6px;
