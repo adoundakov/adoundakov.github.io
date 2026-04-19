@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "adoundakov",
-      "address": "https://alexdoundakov.com/servers.json"
+      "address": "https://ani.ddk.sh"
     },
     {
       "name": "SideStore",
